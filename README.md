@@ -3,4 +3,4 @@
 🧰 Tech Stack: React / React Native (Expo) / Node.js / MySQL / Git   
 🌱 Currently learning: MongoDB, Machine Learning  
 🤝 Looking for: Full-Stack Developer Internship (Web/Mobile)  
- Contact:famemyr@gmail.com  
+ Contact: famemyr@gmail.com  
